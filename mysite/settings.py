@@ -25,7 +25,8 @@ SECRET_KEY = 'zn6^w85w-9y7f_bgpwb5kixaofsxg38l#pyq^-$(^^4f&)*c!@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<aburke.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aburke.pythonanywhere.com']
+
 
 
 # Application definition
